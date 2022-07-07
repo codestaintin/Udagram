@@ -1,5 +1,5 @@
 Description: >
-  Deploy a High-Availability Web App using CloudFormation.
+  Deploy a High-Availability Web App using CloudFormation. This is the network configuration of the deployment.
   Project 2 for ALX NanoDegree scholarship, the name of the application is Udagram
 
 Parameters:
